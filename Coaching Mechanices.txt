@@ -46,39 +46,39 @@ h1 {
 }
 
 p1 {
-color: blue;
+color: black;
   font-family: verdana;
   font-size: 14px;
   text-align: center;
 }
 
 p2 {
-color: blue;
+color: black;
   font-family: verdana;
   font-size: 14px;
   text-align: center;
 }
 
 p3 {
-color: blue;
+color: black;
   font-family: verdana;
   font-size: 14px;
   text-align: center;
 }
 p4 {
-color: blue;
+color: black;
   font-family: verdana;
   font-size: 14px;
   text-align: center;
 }
 p5 {
-color: blue;
+color: black;
   font-family: verdana;
   font-size: 14px;
   text-align: center;
 }
 p6 {
-color: blue;
+color: black;
   font-family: verdana;
   font-size: 14px;
   text-align: center;
@@ -87,9 +87,9 @@ color: blue;
 </head>
 <body>
 <ul>
-  <li><a href="file:///C:/Users/vitae/OneDrive/Documents/Esports%20homepage.html">Esports 1 Homepage</a></li>
-  <li><a class="active" href="file:///C:/Users/vitae/OneDrive/Documents/CoachingMechanices.html">Coaching/Mechanics page</a></li>
-  <li><a href="file:///C:/Users/vitae/OneDrive/Documents/Blog%20post.html">Blog Posts</a></li>
+  <li><a href="file:///C:/Users/249747/Downloads/Esportshomepage.html">Esports 1 Homepage</a></li>
+  <li><a class="active" href="file:///C:/Users/249747/Downloads/Coaching%20Mechanices.html">Coaching/Mechanics page</a></li>
+  <li><a href="file:///C:/Users/249747/Downloads/Blog%20Post.html">Blog Posts</a></li>
 </ul>
 <h1>Coaching/Mechanics Of Dragon Ball FighterZ</h1>
 <p1>Dragon ball Z fighter is a fighting and adventure game that is based on the dragon ball series. In the game you can play many different and strong characters whether that be against a player or a bot. For each character in the game they will have unique moves that belong to them that can allow for different game-play for every different character you play. Also, you can play a story mod that somewhat goes over the original dragon ball series stories. The appropriate rated age for this game is 11 with an audience ranking of 4.2. If you are starting as a Noob in the game you may find my website helpful because it would allow you to learn the basic mechanics of the game and how to play with different characters. The way I play the game is that I memorize the buttons of the controller and what they do, so that when I play a different character I would know how to play with them even if it is my first time playing with the character. The way you get better at the game is by memorizing the type of move sets in the game and how to use them effectively, then practice those moves for some time to get them right. A strategy that I would suggest to people who are starting the game would be when you start to combo and you feel it will end, switch to another character to allow the combo to continue. As a whole the difficulty of the game would probably be put at difficult or higher if you were to pick it up because of how you have to memorize and put into play new combos for your character which is not easy and takes time.
@@ -99,11 +99,25 @@ color: blue;
 <br></br>
 <p3>Clip two: In this clip I will be jumping in the air then press R2 to charge at the enemy to start a combo.</p3>
 <br></br>
+<video Width="320" height="240" controls>
+ <source src="lv_0_20230928105349.mp4" type="video/mp4">
+</video>
+<br></br>
 <p4>Clip three: In this clip I will be pressing R1 which if it hits the enemy then it sends them up in the air where you can then combo them.</p4>
+<br></br>
+<video Width="320" height="240" controls>
+ <source src="lv_0_20230928105307.mp4" type="video/mp4">
+</video>
 <br></br>
 <p5>Clip four: In this clip I will be performing a long beam shot by pressing the x button and moving the movement button down then right.</p5>
 <br></br>
+<video Width="320" height="240" controls>
+ <source src="lv_0_20230928105420.mp4" type="video/mp4">
+</video>
+<br></br>
 <p6>Clip five: In this clip I will be performing a vanishing step which allows you to escape enemies and keep performing combos or start a new combo by pressing Triangle and O buttons at the same time.</p6>
+<video Width="320" height="240" controls>
+ <source src="lv_0_20230928105214.mp4" type="video/mp4">
+</video>
 </body>
 </html>
-
